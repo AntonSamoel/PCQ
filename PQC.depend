@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706550535 source:d:\new folder\pqc\main.c
+	<stdio.h>
+	<stdlib.h>
+
